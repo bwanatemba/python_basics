@@ -1,7 +1,7 @@
 
 class Shape:
     def draw(self):
-        print("Drawinga shape")
+        print("Drawing a shape")
 
 class Rectangle:
     def draw(self):
